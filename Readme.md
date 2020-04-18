@@ -1,7 +1,7 @@
 # Github
-Arquivo da aula de Git e GitHub para iniciantes
+## Este é um repositorio teste
 
-este e um repositorio teste
+Arquivo da aula de Git e GitHub para iniciantes
 
 terceira linha teste
 
