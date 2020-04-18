@@ -3,6 +3,6 @@
 
 Arquivo da aula de Git e GitHub para iniciantes
 
-terceira linha teste
+Primeira linha teste
 
-quarta linha teste
+Segunda linha teste
