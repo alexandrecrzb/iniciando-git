@@ -8,3 +8,5 @@ Primeira linha teste
 Segunda linha teste
 
 Terceira linha testando stash
+
+Quarta linha testando tags
