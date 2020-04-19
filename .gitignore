@@ -1,0 +1,3 @@
+//*.txt todos os arquivos com a extensão .txt serão ignorados
+keys.txt 
+//esse arquivo especifico será ignorado
