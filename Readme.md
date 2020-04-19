@@ -6,3 +6,5 @@ Arquivo da aula de Git e GitHub para iniciantes
 Primeira linha teste
 
 Segunda linha teste
+
+Terceira linha testando stash
